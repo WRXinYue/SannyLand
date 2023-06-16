@@ -5,6 +5,8 @@
 
 
 
+项目已重新构建
+
 ## 先前条件
 
-* EDITOR VERSION: 2019.4.38f1c1
+* EDITOR VERSION: 2022.3.2f1
